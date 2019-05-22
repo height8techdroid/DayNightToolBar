@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFirebaseProjects</string>
+    <string name="invitation_title">TestFirebaseProjects</string>
+    <string name="invitation_message">TestFirebaseProjects</string>
+    <string name="invitation_deep_link">https://testfirebaseprojects.page.link/u9DC</string>
+    <string name="invitation_cta">TestFirebaseProjects</string>
+</resources>
